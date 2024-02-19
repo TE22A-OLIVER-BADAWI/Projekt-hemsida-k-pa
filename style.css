@@ -1,0 +1,21 @@
+
+body{ display: flex;
+flex-direction: column;
+align-items: center;
+background-image: url("img/Theman.avif");
+}
+footer{ border-radius: 5px;
+border: 4px solid black;}
+
+article{text-align: center;}
+
+/* Element/klass/id{
+    regel:värde;
+    regel:värde;
+    
+} */
+
+img{
+    max-width: 200px;
+    max-height: auto;
+}
