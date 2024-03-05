@@ -18,7 +18,7 @@ background-color: black;background-size: 500px;
 
 border-radius: 5%;
 }
-p{siz}
+p{size-adjust: 10px;}
 
 /* Element/klass/id{
     regel:värde;
@@ -32,3 +32,8 @@ img{
 }
 button{background-color: black;color:white;
 border-radius: 2px;}
+header{}
+#cart{max-width: 7px ;
+max-height: 5px; 
+align-items: center;
+}
