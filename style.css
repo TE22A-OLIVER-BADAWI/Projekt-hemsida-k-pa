@@ -84,9 +84,6 @@ main {
   justify-content: center;
 }
 
-article {
-  width: 80%;
-}
 .shopping-cart {
   position: static;
   margin-top: 10px;
